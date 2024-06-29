@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  padding: 10px 20px;
+}
+
+header nav img {
+  height: 50px;
+}
+
+.updates {
+  padding: 20px;
+}
+
+.manga-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.manga-item {
+  margin: 10px;
+  width: 200px;
+}
